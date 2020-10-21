@@ -10,7 +10,7 @@ namespace NPF.Controllers
 {
     public class DivisorController : ApiController
     {
-        //// GET: divisor
+        //// GET: divisor 
         //public ActionResult Index()
         //{
         //    return View();
